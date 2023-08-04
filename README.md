@@ -1,4 +1,4 @@
-# fullprofile_marketing_site
+# Full Profile Marketing Site
 Website for FullProfile Landing Page
 
 This is a basic HTML landing page that is hosted in Github and utilised Github pages to host. 
